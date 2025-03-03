@@ -1,1 +1,1 @@
-"Somple calculator using python - GUI Tkinter" 
+"Simple calculator using python - GUI Tkinter" 
